@@ -3,7 +3,7 @@ package local.hal.ma42.androidjava.lesson5.ex01;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 
-public class Cooktail {
+public class Cocktail {
     private class Ingredient {
         private double _price;
 
@@ -28,7 +28,7 @@ public class Cooktail {
 
     private String _name;
 
-    public Cooktail(String name) {
+    public Cocktail(String name) {
         _name = name;
     }
 
